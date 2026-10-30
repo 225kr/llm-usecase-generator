@@ -10,10 +10,10 @@
 - [ ] 效率评估：对比纯手工与AI辅助的编写效率。
 
 ## 🛠️ 技术栈
-- 后端/核心逻辑：Python, FastAPI / Flask
+- 后端/核心逻辑：Python, FastAPI
 - 大模型API：OpenAI/通义千问/文心一言 (待定)
 - 数据结构校验：Pydantic
-- 前端：HTML/Vue/React (按你们组情况定)
+- 前端：Vue
 
 ## 📂 目录结构 (规划)
 ```text
